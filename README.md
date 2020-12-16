@@ -1,2 +1,2 @@
 # Math-for-Machine-Learning-Project
-This was the my course project for MAP4112 - Math for Machine Learning and Artificial Intelligence. 
+This was the my course project for MAP4112 - Math for Machine Learning and Artificial Intelligence. Here, I developed the code to perform classification on the quality of wine. I used linear discriminant analysis, quadratic discriminant analysis, K-Nearest Neighbors, and support vector machines. Each model then predicted the quality score of wine ranging from 3-9. A link to the data is provided here from UCI: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
